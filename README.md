@@ -20,22 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Pesquisa e intervenção com brasileiros deportados;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Atuação do Serviços Social aos brasileiros deportados
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+GitHub
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Pesquisa
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Em andamento
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito Raciocinio, foco e disciplina.
 ```
 
 ### Exemplos e Insigths
