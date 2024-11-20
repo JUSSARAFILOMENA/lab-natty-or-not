@@ -26,7 +26,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Atuação do Serviços Social aos brasileiros deportados
 
 ## 🤖 Tecnologias Utilizadas
-GitHub
+IAS Generativos: GitHub Leonardo AI
 
 ## 🧐 Processo de Criação
 Pesquisa
